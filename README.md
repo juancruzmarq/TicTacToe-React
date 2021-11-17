@@ -1,3 +1,8 @@
+# Tic-Tac-Toe con React Js
+
+Aplicacion basica del juego Tic-Tac-Toe con React js
+Permite el historial de jugadas y volver a una determinada. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
